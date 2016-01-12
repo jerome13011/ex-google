@@ -1,0 +1,99 @@
+  html {
+  width: 100%;
+  height: 100%;
+}
+.floatup {
+  margin-top: -10px;
+  margin-left: -7px;
+  height: 54px;
+  background-color: white;
+  width: 1863px;
+}
+.boutton {
+  float: right;
+  margin-right: -50px;
+}
+.id p {
+  margin-right: 313px;
+}
+.id p+p {
+  margin-top: -33px;
+  margin-left: 57px;
+}
+.id p+p+p {
+  margin-top: -34px;
+  margin-left: 106px;
+}
+.floatcenter {
+  margin-top: 199px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.logo h1 {
+  font-size: 80px;
+  letter-spacing: -10px;
+}
+.logo p {
+  margin-top: -72px;
+  margin-left: 191px;
+  color: #4169E1;
+}
+.g {
+  color: #4169E1;
+}
+.o {
+  color: #DC143C;
+}
+.oo {
+  color: #FFD700;
+}
+.gg {
+  color: #4169E1;
+}
+.l {
+  color: #228B22;
+}
+.e {
+  color: #DC143C;
+}
+.chance {
+  margin-top: 12px;
+}
+.floatbottom {
+  height: 31px;
+  width: 1863px;
+  background-color: #F2F2F2;
+  margin-top: 496px;
+  margin-left: -7px;
+}
+.mifloatl {
+  margin-left: 31px;
+}
+.mifloatl p {
+  margin-top: -35px;
+  margin-left: 109px;
+}
+.mifloatl p+p {
+  margin-left: 31px;
+  margin-top: -34px;
+}
+.mifloatl p+p+p {
+  margin-left: 176px;
+}
+.mifloatr {
+  float: right;
+}
+.mifloatr p {
+  margin-top: -34px;
+  margin-right: 106px;
+}
+.mifloatr p+p {
+  margin-left: 120px;
+}
+.mifloatr p+p+p {
+  margin-left:281px;
+}
+.mifloatr p+p+p+p {
+  margin-left:366px;
+}
